@@ -8,3 +8,9 @@ Este script permite extraer enlaces relacionados con "contacto" o "privacidad", 
 ## Uso
 python webscraping_contactos.py -u "https://ejemplo.com"
 
+
+## Aviso Legal
+Este repositorio tiene fines **educativos y demostrativos**.  
+**No me hago responsable del uso indebido de los scripts aquí publicados.**  
+El uso de estas herramientas para actividades ilegales, sin consentimiento o que vulneren la privacidad de terceros está estrictamente prohibido.  
+Por favor, utilízalas únicamente en entornos controlados y con autorización.
